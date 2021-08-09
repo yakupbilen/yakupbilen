@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yakup
-- 🎒 I'm a student.
 - 🔭 I’m currently developing myself on Data Science.
 
 <!---
