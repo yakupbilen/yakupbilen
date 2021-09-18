@@ -1,4 +1,4 @@
-- 👋 Hi, There
+- 👋 Hi, there
 - 🔭 I’m currently developing myself on Data Science.
 
 <!---
